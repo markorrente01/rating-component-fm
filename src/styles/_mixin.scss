@@ -1,0 +1,39 @@
+@mixin reviewBtn{
+    border-radius: 50%;
+    height: 3.063rem;
+    width: 3.125rem;
+    min-width: 2.813rem;
+    min-height: 2.75rem;
+    border: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .3s ease-in-out;
+        &:hover{
+            background-color: white;
+            cursor: pointer;
+            color: hsl(216, 12%, 8%);
+        }
+        // &:active{
+        //     background-color: hsl(25, 97%, 53%);
+        // }
+}
+@mixin submit{
+    background-color: hsl(25, 97%, 53%);
+    border-radius: 0.9rem;
+    color: hsl(216, 12%, 8%);
+    padding-top: .6rem;
+    padding-bottom: .5rem;
+    width: 100%;
+    text-align: center;
+    transition: all .3s ease-in-out;
+    border: none;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: .7rem;
+        &:hover{
+            background-color: white;
+            cursor: pointer;
+        }
+}
