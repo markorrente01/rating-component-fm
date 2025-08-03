@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [front end mentor solution url](https://your-solution-url.com)
+- [front end mentor solution url](https://www.frontendmentor.io/solutions/javascript-02f7OL03xt)
 - [vercel live site](https://rating-component-fm-alpha.vercel.app/)
 
 ### Built with
