@@ -24,12 +24,13 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
+[ios11](/public/rating-component-ios11.png)
+[desktop](/public/rating-component-desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [front end mentor solution url](https://your-solution-url.com)
+- [vercel live site](https://rating-component-fm-alpha.vercel.app/)
 
 ### Built with
 
@@ -40,10 +41,10 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Google gemini ai](https://gemini.google.com/app)
+- [W3 schools](https://www.w3schools.com/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [mark orrente](https://www.frontendmentor.io/profile/markorrente01)
+- Twitter - [mark orrente](https://www.twitter.com/markorrente01)
