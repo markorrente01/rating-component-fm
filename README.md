@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Google gemini ai](https://gemini.google.com/app)
-- [W3 schools](https://www.w3schools.com/)
+- [Google-gemini-ai](https://gemini.google.com/app)
+- [W3-schools](https://www.w3schools.com/)
 
 ## Author
 
